@@ -1,0 +1,7 @@
+The Terminal is an interface in which you can input commands to navigate your computer. Not only can you navigate and open different folders, but you can also edit, create, and delete folders as well. On top of that, in the terminal one can type commands and execute programs by telling the computer what you want it to do. Once you know the commands and functions of the terminal, it can help shorten the time needed to create and implement certain actions by not having to open multiple apps and folders to get to where you want to go, but instead just type a few short commands which will yield the same result.
+
+
+The major difference between git and GitHub is the way you use it. Git is how you would send your code/projects/work to the "cloud" which in this case would be Github. 
+
+
+We use GitHub because it works as a location in which we can upload copies of our code/ "git" in a repository. This allows us to save our work along the way in the cloud, so in the case of it not saving on your computer, it will still be there in the cloud. The good thing with this also is that we can change and continue to add more to the code, and simply "push" and "commit" the changes to the code that is already in the repo. Github also helps by being able to have a team work together by committing changes to the same code and push it all into the same place.
